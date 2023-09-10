@@ -20,7 +20,7 @@ const S: Props = {
 
 S.Background = styled.div`
   position: relative;
-  background-color: rgb(144, 190, 232);
+  background-color: rgba(251, 251, 253, .8);
   width: 100vw;
   height: 100vh;
 `;

@@ -1,6 +1,7 @@
 import React from "react";
 import TextInput from "../../components/TextInput";
 import Aside from "../../App/modules/Aside/Aside";
+import Header from "../../App/modules/Header/Header";
 
 function MainPage() {
   return (
