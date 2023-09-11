@@ -6,13 +6,13 @@ import Header from "../../App/modules/Header/Header";
 function MainPage() {
   return (
     <div>
-      <TextInput
+      {/* <TextInput
         placeholder="검색할 내용을 입력하세요"
         onChange={function ({ value }: { value: string }): void {
           throw new Error("Function not implemented.");
         }}
       />
-      <Aside contents={[{ name: "1" }, { name: "2" }]} />
+      <Aside contents={[{ name: "1" }, { name: "2" }]} /> */}
     </div>
   );
 }
